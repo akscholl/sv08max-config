@@ -1,0 +1,15 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+众创klipper.tft.bak
+*.bkp
+*.csv
+*.zip
+ShakeTune_results
+Demon_Klipper_Essentials_Unified
+*.gcode
+*.bin
+*.jpg
+*.png
